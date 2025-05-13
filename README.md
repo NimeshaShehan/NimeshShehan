@@ -51,3 +51,8 @@
 
 ### 📊 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaShehan&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=NimeshaShehan&theme=radical&no-frame=true&row=1&column=7)
