@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nimesha Shehan
+# 👋 Hello , I'm Nimesha Shehan
 
 ### 🔗 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimeshashehan412@gmail.com)
